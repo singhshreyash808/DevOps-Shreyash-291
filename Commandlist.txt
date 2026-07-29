@@ -1,0 +1,24 @@
+cd, cd .., cd \, whoami , sudo , apt install ,
+touch :-
+1.touch -a filename
+2.touch -m filename
+cat:-
+1.cat filename
+2.cat > filename 
+3.cat > file1 > file2(copy the content of one file to the another file)
+Some more commands:-
+1.ls (used to list all the file except hidden files from the current directory)
+2.ls -a (used to list all the file including hidden files from the current directory)
+3.ll (used to list all the files with their access time and date)
+
+Now,move to the some git commands 
+1.git init(used to create the empty repo file)
+2.now for the configuration their are two commands 
+      i.git configure --global user.name
+      ii.git configure --global user.email
+3.git clone "git repo url...."
+4.git status
+(used to track the staged ,modified changes in the current directory)
+5.git add / git add .
+6.git commit -m"commit message"
+7.git push
