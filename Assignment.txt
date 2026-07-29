@@ -1,0 +1,5 @@
+TASK-1:
+Create a directory in a d drive if exist name as CRC-devops in which create two file 
+i.Assignment.txt
+ii.Commandlist.txt
+Now access these file to modifu=y/add the relevant content.
