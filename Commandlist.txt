@@ -1,24 +1,6 @@
-cd, cd .., cd \, whoami , sudo , apt install ,
-touch :-
-1.touch -a filename
-2.touch -m filename
-cat:-
-1.cat filename
-2.cat > filename 
-3.cat > file1 > file2(copy the content of one file to the another file)
-Some more commands:-
-1.ls (used to list all the file except hidden files from the current directory)
-2.ls -a (used to list all the file including hidden files from the current directory)
-3.ll (used to list all the files with their access time and date)
+Hey there are some more commands of linux discussed in the class i.e;
+vi command(used to create,read,modify files)
+ syntax i.vi filename (now in this to get the access of modify we need to press i key and to come out from the modification tab we need to press esc button and w is used to save the content ,q is used to exit from the vi interface last wq is used to save and exit from interface).
 
-Now,move to the some git commands 
-1.git init(used to create the empty repo file)
-2.now for the configuration their are two commands 
-      i.git configure --global user.name
-      ii.git configure --global user.email
-3.git clone "git repo url...."
-4.git status
-(used to track the staged ,modified changes in the current directory)
-5.git add / git add .
-6.git commit -m"commit message"
-7.git push
+NANO command(used to create,read,modify files)
+ syntax i.nano filename(it also provide a new intyerface like a vi the only difference between them is there process to save and exitpress ctrl+x.
