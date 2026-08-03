@@ -1,6 +1,21 @@
-Hey there are some more commands of linux discussed in the class i.e;
-vi command(used to create,read,modify files)
- syntax i.vi filename (now in this to get the access of modify we need to press i key and to come out from the modification tab we need to press esc button and w is used to save the content ,q is used to exit from the vi interface last wq is used to save and exit from interface).
 
-NANO command(used to create,read,modify files)
- syntax i.nano filename(it also provide a new intyerface like a vi the only difference between them is there process to save and exitpress ctrl+x.
+
+now we have some delete commands
+i.rm -rf filename (used to delete file forcefully)
+ii.rm filename(used to delete empty file)
+
+Now,we have some directory management system command i.e;
+i.to create an empty directory in the current working directory
+  mkdir directoryname
+  mkdir -p
+ii.to read data from the directory
+  ls
+  ls -a
+  ll
+iii.to update
+  mv <source> <destination>
+iv.to delete the directory 
+  rmdir directoryname(used to delete empty directory)
+  rmdir -rf directoryname(delete directory and their file)
+v. du command is used to provide the size of each and every contentof file
+   du -h is used to display size of data in bytes.
