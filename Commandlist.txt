@@ -1,21 +1,5 @@
-
-
-now we have some delete commands
-i.rm -rf filename (used to delete file forcefully)
-ii.rm filename(used to delete empty file)
-
-Now,we have some directory management system command i.e;
-i.to create an empty directory in the current working directory
-  mkdir directoryname
-  mkdir -p
-ii.to read data from the directory
-  ls
-  ls -a
-  ll
-iii.to update
-  mv <source> <destination>
-iv.to delete the directory 
-  rmdir directoryname(used to delete empty directory)
-  rmdir -rf directoryname(delete directory and their file)
-v. du command is used to provide the size of each and every contentof file
-   du -h is used to display size of data in bytes.
+There are some more command that i have learn't recentally that is :-
+git revert
+git restore
+git branch branchname
+git checkout etc
